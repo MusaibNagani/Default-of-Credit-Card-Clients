@@ -25,15 +25,14 @@ This project demonstrates various machine learning algorithms implemented in Pyt
     - data.xls
 - README.md
 - requirements.txt
-- CONTRIBUTING.md
 ```
 
 ## Installation
 To run the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Final_Project_3710.git
-cd Final_Project_3710
+git clone https://github.com/yourusername/Default-of-Credit-Card-Clients.git
+cd Default-of-Credit-Card-Client
 pip install -r requirements.txt
 ```
 
