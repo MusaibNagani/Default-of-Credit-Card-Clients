@@ -31,7 +31,7 @@ This project demonstrates various machine learning algorithms implemented in Pyt
 To run the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Default-of-Credit-Card-Clients.git
+git clone https://github.com/Musaib-Nagani/Default-of-Credit-Card-Clients.git
 cd Default-of-Credit-Card-Client
 pip install -r requirements.txt
 ```
